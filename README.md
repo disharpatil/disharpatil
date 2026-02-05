@@ -38,13 +38,6 @@ I'm **Disha Patil**
 
 ---
 
-# 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=disharpatil&theme=dark&hide_border=false)
-![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=disharpatil&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disharpatil&layout=compact&theme=dark)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=disharpatil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM -->
